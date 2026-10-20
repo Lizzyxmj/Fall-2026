@@ -1,4 +1,4 @@
-# Simulator file for question 1.
+ddd# Simulator file for question 1.
 # Fill in the implementation of the different commands of the simulator.
 # You can use `tests.py` to run your simulator on some prewritten RAM programs.
 
